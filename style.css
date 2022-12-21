@@ -1,0 +1,39 @@
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.categories {
+    color: white;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.bg-yellow {
+    background-color: #ffa500;
+}
+
+.bg-pink {
+    background-color: #da70d6;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.panda-btn-warning {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+
+.panda-btn-warning:hover {
+    color: #fff;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: 2px solid;
+}
